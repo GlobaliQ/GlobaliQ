@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GlobaliQ</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">GlobaliQ</string>
+    <string name="nav_header_subtitle">globaliqzsz@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="h">O nas</string>
+
+    <string name="menu_home">Strona Główna</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Ustawienia</string>
+    <string name="menu_share">Poleć nas</string>
+    <string name="menu_about">O aplikacji</string>
+    <string name="menu_contact">Kontakt</string>
+    <string name="oaplikacji">Aplikacja została stworzona przez Grupę Informatyków z ZSZ Gostyń; Wersja aplikacji: 1.0; Ostatnie aktualizacja: 12.10.2019</string>
+    <string name="con"> Jeśli znalazłeś błąd lub chciałbyś zadać pytanie, skontaktuj się z nami po adresem e-mail:</string>
+    <string name="con1">globaliqzsz@gmail.com</string>
+    <string name="btn">wcale nie button</string>
+    <string name="ab">✔ GlobaliQ; Wersja aplikacji 1.0 BETA</string>
+    <string name="ab1">✔ Aplikacja powstała, aby uświadomić ludziom, jak poważne są problemy dzisiejszego świata oraz pomóc podjąć działania mające na celu uratować Ziemię.</string>
+    <string name="ab2">✔ Aplikacja została stworzona przez (?), uczniów ZSZ Gostyń w ramach konkursu Hack Heroes.</string>
+    <string name="set">Tryb wyświetlania</string>
+</resources>
